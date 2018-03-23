@@ -5,4 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>demo.java.app</name>
   <description>demo.java.app</description>
+  <dependencies>
+  	
+  
+  </dependencies>
 </project>
